@@ -1,1 +1,1 @@
-# yoga-pose-analysis-ollama-chat
+# YogaCorrector
